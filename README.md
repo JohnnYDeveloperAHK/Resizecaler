@@ -8,6 +8,6 @@
 - Load any image into a frameless floating window via drag and drop
 - Move the image using drag or arrow keys (while holding CTRL)
 - Resize the image with mouse wheel (while holding CTRL)
-- Stay-on-top window option for reference use
+- Additonally, you can move the [Border] button (while holding CTRL)
+- Window is set to Always-on-top for Reference use.
 - Portable and fast (no installation required)
-- Additonally, you can move the Border button (while holding CTRL)
