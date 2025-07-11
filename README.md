@@ -11,7 +11,3 @@
 - Stay-on-top window option for reference use
 - Portable and fast (no installation required)
 - Additonally, you can move the Border button (while holding CTRL)
-
-**Compiled EXE version:**
-The compiled .exe works standalone on any Windows machine without requiring AutoHotkey installed.
-
